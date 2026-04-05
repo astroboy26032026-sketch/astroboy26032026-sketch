@@ -46,7 +46,7 @@ Nen tang giao dich token phi tap trung tren Solana voi prediction markets, real-
 
 Ung dung e-commerce thiet bi am thanh cao cap — quan ly san pham, gio hang, thanh toan Stripe, he thong coupon va JWT authentication.
 
-[![Source Code](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/astroboy26032026-sketch/e-commerce-frontend)
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-00C853?style=for-the-badge)](https://e-commerce-frontend-wheat-zeta.vercel.app/) [![Source Code](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/astroboy26032026-sketch/e-commerce-frontend)
 
 ---
 
