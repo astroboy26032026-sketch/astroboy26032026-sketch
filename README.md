@@ -30,6 +30,15 @@ Nen tang DApp tren Solana — tao, giao dich va theo doi SPL tokens voi bonding 
 
 ---
 
+### Zugar — Solana Prediction Market & Trading Platform
+
+![Next.js](https://img.shields.io/badge/-Next.js_14-000?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Solana](https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square)
+
+Nen tang giao dich token phi tap trung tren Solana voi prediction markets, real-time pricing qua WebSocket, wallet integration (Phantom, Solflare) va he thong rewards/referral.
+
+[![Source Code](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/astroboy26032026-sketch/chain-prediction-market-frontend)
+---
+
 ## 🛠️ My Tech Stack
 
 ### Programming Languages
