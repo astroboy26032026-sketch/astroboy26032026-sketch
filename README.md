@@ -4,6 +4,7 @@
 
 <p align="center">
   Frontend Engineer / Full Stack with 8+ years of experience building web applications using React, TypeScript, and modern JavaScript.Also have experience working as a Scrum Master in Agile environments.
+  This is my new GitHub account. In the near future, alongside continuing current projects, I will migrate and update my previous projects from another GitHub account.
 </p>
 
 ---
