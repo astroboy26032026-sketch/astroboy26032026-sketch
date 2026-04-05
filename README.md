@@ -16,7 +16,7 @@
 
 Nen tang AI da tac nhan tu dong hoa tac vu phat trien phan mem tu tai lieu — upload PDF/Word, Q&A voi AI, break down task thanh Kanban board, sinh test case va API spec.
 
-[![Live Demo](https://img.shields.io/badge/-Live_Demo-00C853?style=for-the-badge)](https://ai-agent-astro-x.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-00C853?style=for-the-badge)](https://ai-agent-astro-x.vercel.app/) [![Source Code](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/astroboy26032026-sketch/ai-agent-astroX)
 
 ---
 
@@ -37,6 +37,16 @@ Nen tang DApp tren Solana — tao, giao dich va theo doi SPL tokens voi bonding 
 Nen tang giao dich token phi tap trung tren Solana voi prediction markets, real-time pricing qua WebSocket, wallet integration (Phantom, Solflare) va he thong rewards/referral.
 
 [![Source Code](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/astroboy26032026-sketch/chain-prediction-market-frontend)
+---
+
+### Hivio — E-Commerce Audio Equipment Store
+
+![Next.js](https://img.shields.io/badge/-Next.js_14-000?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+Ung dung e-commerce thiet bi am thanh cao cap — quan ly san pham, gio hang, thanh toan Stripe, he thong coupon va JWT authentication.
+
+[![Source Code](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/astroboy26032026-sketch/e-commerce-frontend)
+
 ---
 
 ## 🛠️ My Tech Stack
