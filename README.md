@@ -1,63 +1,32 @@
-<h1 align="center">Hi there, I'm Quan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Hi , I'm Quan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <h3 align="center">Frontend Engineer / Full-Stack Developer</h3>
 
 <p align="center">
-  Frontend Engineer / Full Stack with 8+ years of experience building web applications using React, TypeScript, and modern JavaScript. Experienced in frontend architectures such as SPA and SSR, performance optimization, and cross-browser compatibility. Skilled in delivering high-quality UI/UX, working with testing, troubleshooting, real-time interfaces, and collaborating across teams. Also have experience working as a Scrum Master in Agile environments.
+  Frontend Engineer / Full Stack with 8+ years of experience building web applications using React, TypeScript, and modern JavaScript.Also have experience working as a Scrum Master in Agile environments.
 </p>
 
 ---
 
-## 🚀 Pinned Project: AstroX — AI Multi-Agent Platform
+## 🚀 Featured Projects
 
-<p align="center">
-  <strong>Nen tang AI da tac nhan bien tai lieu phan mem thanh ket qua hanh dong</strong>
-</p>
+### AstroX — AI Multi-Agent Platform
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Mistral_AI-FF7000?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Groq-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Anthropic-191919?style=for-the-badge&logoColor=white" />
-</p>
+![Next.js](https://img.shields.io/badge/-Next.js_15-000?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/-React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vercel AI](https://img.shields.io/badge/-Vercel_AI_SDK-000?style=flat-square&logo=vercel) ![Mistral](https://img.shields.io/badge/-Mistral_AI-FF7000?style=flat-square) ![Groq](https://img.shields.io/badge/-Groq-000?style=flat-square) ![Anthropic](https://img.shields.io/badge/-Anthropic-191919?style=flat-square)
 
-AstroX giup doi phat trien phan mem **tang toc** bang cach tu dong hoa cac tac vu lap di lap lai tu tai lieu — tu phan tich noi dung, break down task den sinh test case va API spec.
+Nen tang AI da tac nhan tu dong hoa tac vu phat trien phan mem tu tai lieu — upload PDF/Word, Q&A voi AI, break down task thanh Kanban board, sinh test case va API spec.
 
-> *Giam thoi gian doc tai lieu, tang thoi gian viet code.*
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-00C853?style=for-the-badge)](https://ai-agent-astro-x.vercel.app/)
 
-### Modules
+---
 
-| Module | Trang thai | Mo ta |
-|---|---|---|
-| AI Document Management | 🟢 In Progress (30%) | Upload PDF/Word → Q&A voi AI, break down task thanh Kanban board |
-| AI Document Swagger | ⏳ Planned | Parse tai lieu → sinh OpenAPI/Swagger spec tu dong |
-| AI Document Test Case | ⏳ Planned | Parse tai lieu → sinh bo test case day du |
+### CosmoX — Solana Token Launchpad & Trading Platform
 
-### Tinh nang chinh
+![Next.js](https://img.shields.io/badge/-Next.js_14-000?style=flat-square&logo=next.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Solana](https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-- 🤖 **Chat AI** — Hoi dap ve platform AstroX, xem du an, tien do, lien he
-- 📄 **AI Document Management** — Upload PDF/Word, streaming Q&A, phan tich noi dung
-- 📋 **Task Board (Kanban)** — Break down tai lieu phan mem thanh task theo DevOps/BE/FE/QA
-- 🔌 **Multi-provider** — Ho tro Mistral AI (mac dinh), Groq (mien phi), Anthropic
-- 🌑 **Dark mode only** — Giao dien toi hoan toan
+Nen tang DApp tren Solana — tao, giao dich va theo doi SPL tokens voi bonding curve, bieu do gia truc tiep, portfolio management va he thong rewards.
 
-### Tech Stack
-
-| Lop | Cong nghe |
-|---|---|
-| Frontend | Next.js 15 (App Router), React 19, Tailwind CSS v4, Framer Motion |
-| AI / Streaming | Vercel AI SDK 4, Mistral AI, Groq, Anthropic |
-| Document Parsing | pdf-parse, mammoth |
-| UI Components | Radix UI, Lucide Icons, Vaul, Sonner |
-| Deployment | Vercel |
-
-<p align="center">
-  <a href="https://ai-agent-astro-x.vercel.app/">
-    <img src="https://img.shields.io/badge/-🔗_Live_Demo-00C853?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-00C853?style=for-the-badge)](https://chain-meme-launchpad-frontend.vercel.app/) [![Source Code](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/astroboy26032026-sketch/chain-meme-launchpad-frontend)
 
 ---
 
@@ -102,18 +71,6 @@ AstroX giup doi phat trien phan mem **tang toc** bang cach tu dong hoa cac tac v
 ## 🏆 Certificate
 
 ![Scrum Master](https://img.shields.io/badge/-PSM--II_Scrum_Master-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
